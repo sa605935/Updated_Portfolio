@@ -1,0 +1,81 @@
+/*way background image for body*/
+body {
+    background: url(images/Pink_background.jpg);
+    background-size: 100%;
+    width: auto;
+}
+
+/*sets border around main page content*/
+.border {
+    background-color: #ead3d7;
+    margin-top: 100px;
+    margin-bottom: 90px;
+    padding-bottom: 20px;
+}
+
+/*size & center headshot*/
+#headshot {
+    width: 600px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/*Header background*/
+.header-background {
+    background-color: #ce897b;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+
+/*Header font and center*/
+h1 {
+    color: whitesmoke;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+.bg-secondary {
+    background-color: pink;
+}
+.col_card {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+/*sets color for links on portfolio page*/
+.links-portfolio, a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+/*Padding for contact page form & font*/
+.contact-form {
+    padding-left: 175px;
+    padding-right: 10px;
+    font-family: 'Franklin Gothic Small', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+/*floats NavBar list to the right of the page*/
+.navbar-brand {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#navbarNavAltMarkup {
+    justify-content: flex-end;
+    font-family: 'Franklin Gothic Small', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*Paragraph font*/
+.paragraph {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.submit{
+    color: pink;
+}
