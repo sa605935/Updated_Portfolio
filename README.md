@@ -1,4 +1,7 @@
 # ResponsivePortfolio
+
+THIS IS THE UPDATED RESPONSIVIE PORTFOLIO!
+- I updated the portfolio page
 Unit 2 Homework Assignment
 
 In this assignment, we were tasked to begin creating our personal websites. We were given reference screenshots as guides and were encouraged to achieve the following...
